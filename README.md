@@ -18,7 +18,7 @@
             alt="Praaveen Aththanayake Email">
     </a>
   &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/jose-gracia/](https://lk.linkedin.com/in/praveen-aththanayake-1b7844269">
+    <a href="https://www.linkedin.com/in/praveen-aththanayake/">
         <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png?ga=GA1.1.827208268.1703261754" height="30" width="30"
             alt="Praaveen Aththanayake Gmail">
     </a>
