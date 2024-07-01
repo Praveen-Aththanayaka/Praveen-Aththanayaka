@@ -9,7 +9,7 @@
 
 <div align="center">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenAththanayake&theme=dark&hide_border=false" alt="praveen-aththanayaka" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenAththanayake&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenAththanayake&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 </div>
 
 <div align="center" style="text-align:center">
