@@ -6,7 +6,7 @@
    with projects shared across multiple platforms.
  
  ~> <strong>ls socials</strong>
- Fediverse: <a rel=me href="[https://tilde.zone/@hedy](https://www.linkedin.com/in/praveen-aththanayake/)">in/praveen-aththanayake</a>
+ Fediverse: <a rel=me href="https://tilde.zone/@hedy](https://www.linkedin.com/in/praveen-aththanayake/">in/praveen-aththanayake</a>
 
  ~> <strong>finger praveen</strong>
 Login: praveen                             Name: praveen
